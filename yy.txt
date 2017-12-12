@@ -1,0 +1,10 @@
+'''
+1.通过https://bbs.hupu.com/selfie获取帖子连接
+    stickInfo 帖子链接类:1.帖子连接Str
+    打开帖子链接类:打开虎扑爆照区方法 openURL()
+    获取贴子链接方法 getStickInfo()
+    完成
+2.通过帖子连接打开帖子
+
+3.在帖子内匹配内容并保存
+'''
